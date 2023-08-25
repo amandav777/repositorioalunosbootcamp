@@ -18,3 +18,39 @@ h1{
     display: flex;
     justify-content: center;
 }
+
+.ADS{
+    margin: 0 auto;
+    height: 300px;
+    background-color: #fff;
+    border-radius: 20px;
+    color: #141414;
+    justify-content: center;
+    text-align: justify;
+    padding: 20px;
+    }
+
+.BCC{
+    margin: 0 auto;
+    height: 300px;
+    background-color: #fff;
+    border-radius: 20px;
+    color: #141414;
+    justify-content: center;
+    text-align: justify;
+    padding: 20px;
+}
+
+.cursos-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cursos{
+    display: inline-flex;
+    justify-content: center;
+    gap: 30px;
+
+}
